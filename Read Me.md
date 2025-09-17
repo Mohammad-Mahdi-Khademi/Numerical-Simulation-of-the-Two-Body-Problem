@@ -56,7 +56,7 @@ The study includes:
 
 ### Simulation Outputs  
 - ![3D Orbit Trajectories](images/3D.png)  
-- ![3D Orbital Motion](images/Disance.png)  
+- ![3D Orbital Motion](images/Distance.png)  
 
 ---
 
