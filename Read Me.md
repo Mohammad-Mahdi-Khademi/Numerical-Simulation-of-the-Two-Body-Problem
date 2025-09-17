@@ -55,8 +55,8 @@ The study includes:
 - Sensitivity to initial conditions was observed: small velocity changes altered paths significantly.  
 
 ### Simulation Outputs  
-[3D Orbit Trajectories](images/3D.png)  
-[3D Orbital Motion](images/Disance.png)  
+- ![3D Orbit Trajectories](images/3D.png)  
+- ![3D Orbital Motion](images/Disance.png)  
 
 ---
 
