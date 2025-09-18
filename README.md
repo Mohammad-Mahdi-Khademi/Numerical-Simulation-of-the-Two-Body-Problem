@@ -1,4 +1,4 @@
-##📌 Project Overview  
+## 📌 Project Overview  
 This project investigates the two-body gravitational problem using numerical simulation methods.  
 The aim is to solve Newton’s equations of motion for two interacting masses using the classical Runge-Kutta (RK4) method and simulate their trajectories in 2D and 3D space.  
 
